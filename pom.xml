@@ -29,4 +29,13 @@
 	<build>
 		<finalName>WebApp</finalName>
 	</build>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>artifactrepo</id>
+			<name>artifactrepo</name>
+			<url>${artifactrepo_url}</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 </project>

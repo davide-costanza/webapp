@@ -1,3 +1,5 @@
+package it.extrared.tinyapp;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
